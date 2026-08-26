@@ -137,7 +137,7 @@ proto-plus==1.28.2
     #   google-ai-generativelanguage
     #   google-api-core
     #   google-cloud-speech
-protobuf==5.29.6
+protobuf==7.36.0
     # via
     #   google-ai-generativelanguage
     #   google-api-core
